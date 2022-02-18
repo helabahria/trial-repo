@@ -8,26 +8,26 @@
 
   # Create an app
 
-![alt text](/public/1.png)
+![alt text](img/1.png)
 
 
   # Confirm app creation
 
 
-![alt text](/public/2.png)
+![alt text](img/2.png)
 
 
 
   # Get Facebook credentials
 
-![alt text](/public/3.png)
+![alt text](img/3.png)
 
 
 
   # Get Facebook version
 
 
-![alt text](/public/4.png)
+![alt text](img/4.png)
 
 
 PS: 
@@ -45,30 +45,30 @@ FB_GRAPH_VERSION=process.env.FB_GRAPH_VERSION
 
   # Create Credentialds
 
-![alt text](/public/11.png)
+![alt text](img/11.png)
 
 
   # Fill out the form
 
-![alt text](/public/22.png)
+![alt text](img/22.png)
 
 
 
   # Get Client crededentials
 
-![alt text](/public/33.png)
+![alt text](img/33.png)
 
 
 
   # Create Youtube configuration
 
-  ![alt text](/public/111.png)
+  ![alt text](img/111.png)
 
 
 
   # Get Youtube configuration
 
-  ![alt text](/public/222.png)
+  ![alt text](img/222.png)
 
 
 
@@ -90,12 +90,12 @@ GDA_TAP_API_KEY= process.env.GDA_TAP_API_KEY
 
   # Create a new app
 
-![alt text](/public/333.png)
+![alt text](img/333.png)
 
 
   # Get linkedin crededentials
 
-![alt text](/public/444.png)
+![alt text](img/444.png)
 
 
 
@@ -117,18 +117,18 @@ LINKEDIN_SECRET=process.env.LINKEDIN_SECRET
 
   # Create a new app
 
-![alt text](/public/1t.png)
+![alt text](img/1t.png)
 
 
   # Set params for your app
 
-![alt text](/public/2t.png)
+![alt text](img/2t.png)
 
 
 
   # Get your twitter credentialds
 
-![alt text](/public/3t.png)
+![alt text](img/3t.png)
 
 
 
@@ -137,7 +137,7 @@ LINKEDIN_SECRET=process.env.LINKEDIN_SECRET
   you can regenerate again your credentials with more options
 
 
-![alt text](/public/4t.png)
+![alt text](img/4t.png)
 
 
 
@@ -163,12 +163,12 @@ TWITTER_ACCESS_TOKEN_SECRET=process.env.TWITTER_ACCESS_TOKEN_SECRET
 
   # BotFather
 
-![alt text](/public/bot1.png)
+![alt text](img/bot1.png)
 
 
   # Get your confirmation
 
-![alt text](/public/bot2.png)
+![alt text](img/bot2.png)
 
 
 
@@ -194,10 +194,10 @@ TELEGRAM_BOT_TOKEN=process.env.TELEGRAM_BOT_TOKEN
 
   # Create your account
 
-![alt text](/public/marketcap0.png)
+![alt text](img/marketcap0.png)
 
 
 
   # Get your crededentials
 
-![alt text](/public/marketcap1.png)
+![alt text](img/marketcap1.png)
