@@ -12,10 +12,15 @@ propose changes to this document in a pull request.
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+1. Fork the project on GitHub.
+  [Help Guide to Fork a Repository](https://help.github.com/en/articles/fork-a-repo/).
+2. Clone the project.
+   [Help Guide to Clone a Repository](https://help.github.com/en/articles/cloning-a-repository)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Create a branch specific to the issue you are working on.
+ ```shell
+ git checkout -b feature/AmazingFeature
+ ```
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
