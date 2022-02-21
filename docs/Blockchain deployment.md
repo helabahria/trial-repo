@@ -14,9 +14,7 @@
 
 **Compile your file.sol and check
 
-
-![alt text](img/compile.png)
-
+<img src="img/compile.png" width="324" height="324">
 
 **To deploy your smart contract you should connect with your metamask account 
 
