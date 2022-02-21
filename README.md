@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## SaTT Wallet API
 
-
+![alt text](/docs/img/logo-s.png)
 
 Welcome to SaTT Webservice endpoint, this backend provides webservice to SaTT WebWallet and advertising campaign manager : [Wallet](https://satt.atayen.us/)
 
