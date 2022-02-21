@@ -33,7 +33,7 @@
 **Get node credentials from infura such as PROJECTID, PROJECT SECRET, and the endpoints that we can use to connect to infura node(https, wss)
 
 
-![alt text](img/keysinfura .png)
+![alt text](img/keysinfura.png)
 
 
 ```sh
