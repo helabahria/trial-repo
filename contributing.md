@@ -10,6 +10,17 @@ The following is a set of guidelines for contributing to SaTT Wallet.
 These are just guidelines, not rules, use your best judgment and feel free to
 propose changes to this document in a pull request.
 
+## Issues
+
+Issues are created [here](https://github.com/helabahria/trial-repo/issues/new).
+
+* [How to Contribute in Issues](https://electronjs.org/docs/development/issues#how-to-contribute-in-issues)
+* [Asking for General Help](https://electronjs.org/docs/development/issues#asking-for-general-help)
+* [Submitting a Bug Report](https://electronjs.org/docs/development/issues#submitting-a-bug-report)
+* [Triaging a Bug Report](https://electronjs.org/docs/development/issues#triaging-a-bug-report)
+* [Resolving a Bug Report](https://electronjs.org/docs/development/issues#resolving-a-bug-report)
+
+
 ## Contributing
 
 1. Fork the project on GitHub.
@@ -43,5 +54,5 @@ propose changes to this document in a pull request.
  ## Further Reading
 
 For more in-depth guides on developing SaTT Wallet, see
-[/docs](/docs)
+[docs](/docs)
 
