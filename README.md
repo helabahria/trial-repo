@@ -66,6 +66,8 @@ See the [open issues](https://github.com/Atayen/node-satt/issues) for a list of 
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. :v::tada:
 
+Please see [CONTRIBUTING.md](contributing.md) CONTRIBUTING.md for more information on what we're looking for and how to get started.
+
 
 
 
