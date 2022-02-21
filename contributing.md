@@ -21,6 +21,15 @@ propose changes to this document in a pull request.
  ```shell
  git checkout -b feature/AmazingFeature
  ```
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+4. Commit your Changes using a descriptive commit message.
+    ```shell
+ git commit -m 'Add some AmazingFeature'
+ ```
+
+5. Push your commits to your GitHub Fork:
+
+    ```shell
+   git push origin feature/AmazingFeature
+    ```
+
+6. Open a Pull Request
