@@ -1,11 +1,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## SaTT Wallet API  <img align="left" width="50" height="50" src="docs/img/logo-s.png">
+## Node-SaTT  <img align="left" width="50" height="50" src="docs/img/logo-s.png">
 
-
-
-
+### Introduction
 
 Welcome to SaTT Webservice endpoint, this backend provides webservice to SaTT WebWallet and advertising campaign manager : [Wallet](https://satt.atayen.us/)
 
@@ -27,6 +25,35 @@ This projetct is build in JavaScript for NodeJS and these main npm modules :
 
 
 <!-- GETTING STARTED -->
+
+## Getting Started
+
+To run SaTT API webservice Provider you will need NodeJS 12.0+ and npm Package manager
+
+### Prerequisites
+
+
+* MongoDB database connection
+* Web3 service provider with [Geth](https://geth.ethereum.org/),[openerhereum](https://github.com/openethereum/openethereum) or [Infura](https://infura.io/) SaaS
+* PM2 Process Manager, you can install it a described below : 
+ ```sh
+  npm install pm2 -g
+  ```
+ 
+
+### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Atayen/node-satt.git
+   ```
+2. Edit conf/config.js file
+
+3. Register and start PM2 service 
+   ```sh
+   pm2 start app.js
+   ```
 
 
 
