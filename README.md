@@ -2,7 +2,11 @@
 <!-- ABOUT THE PROJECT -->
 ## SaTT Wallet API
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img 
+    width="300"
+    height="300"
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoinmarketcap.com%2Ffr%2Fcurrencies%2Fsatt%2F&psig=AOvVaw3JaaTTzLyhZsQ-oI3RFcw9&ust=1645524186948000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjfjbjFkPYCFQAAAAAdAAAAABAD"
+  >
 </p>
 Welcome to SaTT Webservice endpoint, this backend provides webservice to SaTT WebWallet and advertising campaign manager : [Wallet](https://satt.atayen.us/)
 
