@@ -1,7 +1,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## SaTT Wallet API <img align="left" width="50" height="50" src="docs/img/logo-s.png">
+## SaTT Wallet API  <img align="left" width="50" height="50" src="docs/img/logo-s.png">
+
+
 
 
 
