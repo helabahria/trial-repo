@@ -33,9 +33,11 @@ propose changes to this document in a pull request.
   ```
 
 6. Open a Pull Request.
-   Within GitHub, visit this main repository and you should see a banner
-   suggesting that you make a pull request. While you're writing up the pull
-   request, you can add `Closes #XXX` in the message body where `#XXX` is the
-   issue you're fixing. Therefore, an example would be `Closes #56` would close issue
-   `#56`.
+
+
+  Within GitHub, visit this main repository and you should see a banner
+  suggesting that you make a pull request. While you're writing up the pull
+  request, you can add `Closes #XXX` in the message body where `#XXX` is the
+  issue you're fixing. Therefore, an example would be `Closes #56` would close issue
+  `#56`.
 
