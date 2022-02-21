@@ -40,4 +40,8 @@ propose changes to this document in a pull request.
   request, you can add `Closes #XXX` in the message body where `#XXX` is the
   issue you're fixing. Therefore, an example would be `Closes #56` would close issue
   `#56`.
+ ## Further Reading
+
+For more in-depth guides on developing SaTT Wallet, see
+[/docs](/docs)
 
