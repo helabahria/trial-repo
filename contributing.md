@@ -17,6 +17,11 @@ Issues are created [here](https://github.com/helabahria/trial-repo/issues/new).
 Use the issue tracker to find ways to contribute. Find a bug or a feature, mention in
 the issue that you will take on that effort.
 
+When opening a new issue in the issue tracker, users will be presented with a template that should be filled in.
+If you believe that you have found a bug in node-satt, please fill out the template to the best of your ability.
+
+
+
 ## Pull Requests
 
 1. Fork the project on GitHub.
