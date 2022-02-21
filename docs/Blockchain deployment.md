@@ -35,7 +35,7 @@
 
 ![alt text](img/keysinfura.png)
 
-
+PS: This credential refers to in WEB3_URL .env file
 ```sh
 WEB3_URL=process.env.WEB3_URL
 ```
