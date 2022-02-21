@@ -33,6 +33,7 @@ This projetct is build in JavaScript for NodeJS and these main npm modules :
 ## Usage
 
 After you run the project, you can navigate to [https://localhost:3015/docs](http://localhost:3015/docs) to see the full list of available endpoints.
+<!-- Project Structure -->
 ## Project Structure
 The folder structure of this app is explained below:
 
@@ -52,7 +53,6 @@ The folder structure of this app is explained below:
                                                                                                                            |
 
 
-<!-- Project Structure -->
 
 <!-- ROADMAP -->
 ## Roadmap
