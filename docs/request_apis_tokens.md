@@ -163,11 +163,11 @@ TWITTER_ACCESS_TOKEN_SECRET=process.env.TWITTER_ACCESS_TOKEN_SECRET
 
   # BotFather
 
-<img src="img/bot1.png" width="324" height="324">
+<img src="img/bot1.png" width="324" height="500">
 
   # Get your confirmation
   
-<img src="img/bot2.png"  width="324" height="324">
+<img src="img/bot2.png"  width="324" height="500">
 
 
 PS: 
