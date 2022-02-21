@@ -7,7 +7,6 @@
 
 
 
-
 Welcome to SaTT Webservice endpoint, this backend provides webservice to SaTT WebWallet and advertising campaign manager : [Wallet](https://satt.atayen.us/)
 
 It provides :
