@@ -1,7 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
-## SaTT Wallet API <img align="left" width="100" height="100" src="docs/img/logo-s.png">
-
+<img align="left" width="50" height="50" src="docs/img/logo-s.png">
+## SaTT Wallet API 
 
 Welcome to SaTT Webservice endpoint, this backend provides webservice to SaTT WebWallet and advertising campaign manager : [Wallet](https://satt.atayen.us/)
 
