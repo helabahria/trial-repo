@@ -52,7 +52,6 @@ The folder structure of this app is explained below:
                                                                                                                            |
 
 
-
 <!-- Project Structure -->
 
 <!-- ROADMAP -->
