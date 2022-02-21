@@ -49,8 +49,8 @@ The folder structure of this app is explained below:
 | **middlewares**          | Express middlewares which process the incoming requests before handling them down to the routes
 | **routes**               | Contain all express routes, separated by module/area of application                           |
 |  app.js                  | Entry point to express app                                                                    |
-| package.json             | Contains npm dependencies as well as the scripts  
-                                                                                                                           |
+| package.json             | Contains npm dependencies as well as the scripts                                              |
+                                                                                                                          
 
 
 
