@@ -6,7 +6,7 @@ This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDU
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to dev@atayen.us.
 
-The following is a set of guidelines for contributing to SaTT Wallet.
+The following is a set of guidelines for contributing to node-SaTT.
 These are just guidelines, not rules, use your best judgment and feel free to
 propose changes to this document in a pull request.
 
@@ -24,16 +24,16 @@ If you believe that you have found a bug in node-satt, please fill out the templ
 
 ## Pull Requests
 
-1. Fork the project on GitHub.
+1. Fork the project on GitHub:
   [Help Guide to Fork a Repository](https://help.github.com/en/articles/fork-a-repo/).
-2. Clone the project.
+2. Clone the project:
    [Help Guide to Clone a Repository](https://help.github.com/en/articles/cloning-a-repository)
 
-3. Create a branch specific to the issue you are working on.
+3. Create a branch specific to the issue you are working on:
  ```shell
  git checkout -b feature/AmazingFeature
  ```
-4. Commit your Changes using a descriptive commit message.
+4. Commit your Changes using a descriptive commit message:
  ```shell
  git commit -m 'Add some AmazingFeature'
  ```
@@ -54,6 +54,6 @@ If you believe that you have found a bug in node-satt, please fill out the templ
   `#56`.
  ## Further Reading
 
-For more in-depth guides on developing SaTT Wallet, see
-[docs](/docs)
+For more in-depth guides on developing node-SaTT, see
+[docs](/docs).
 
