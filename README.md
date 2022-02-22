@@ -41,6 +41,7 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
     For complete MongoDB installation instructions, see [the manual](https://docs.mongodb.com/manual/installation/).
     
   2. Connect to MongoDB via URI
+  
      The standard MongoDB URI connection scheme has the form:
       ```sh
       mongodb://[username:password@]host1[:port1][,...hostN[:portN]]][/[database][?options]]
