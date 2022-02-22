@@ -9,7 +9,7 @@
   ### 1. Create an app
 
 
-<img src="img/1.png" width="800" height="400">
+<img src="img/1.png" width="900" height="600">
 
   ### 2. Confirm app creation
 
