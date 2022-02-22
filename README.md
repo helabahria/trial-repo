@@ -15,7 +15,7 @@ It provides :
 
 ### Built With
 
-This projetct is build in JavaScript for NodeJS and these main npm modules :
+This projetct is build in `JavaScript` for `NodeJS` and these main `npm` modules :
 * [Express](https://expressjs.com/)
 * [Mongodb](https://github.com/mongodb/node-mongodb-native)
 * [Web3.js](https://web3js.readthedocs.io/en/v1.3.0/)                   
