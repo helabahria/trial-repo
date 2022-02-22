@@ -78,9 +78,7 @@ body:
       required: true
     - type: textarea
     attributes:
-      label: Add your Wallet Adress
-      description: |
-        
+      label: Add your Wallet Adress    
     validations:
       required: true
   - type: textarea
