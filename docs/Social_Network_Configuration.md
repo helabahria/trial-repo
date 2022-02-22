@@ -59,11 +59,12 @@ FB_GRAPH_VERSION=process.env.FB_GRAPH_VERSION
 <!--Youtube-->
 
  ## Youtube configuration
-   In order to access the API, you'll need to get a [service key](https://developers.google.com/youtube/registering_an_application#Create_API_Keys) from the [Google Cloud Console](https://console.cloud.google.com).
+   In order to access the API, you'll need to get a [service key](https://developers.google.com/youtube/registering_an_application#Create_API_Keys) from the [Google Cloud Console](https://console.cloud.google.com). 
+   
   ![alt text](img/111.png)
 
 
-  ### Get Youtube credentials
+  ## Get Youtube credentials
 
   ![alt text](img/222.png)
 
