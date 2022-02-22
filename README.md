@@ -40,15 +40,18 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
      ```
     For complete MongoDB installation instructions, see [the manual](https://docs.mongodb.com/manual/installation/).
     
-  2. 
+  2. Connect to MongoDB via URI
+     The standard MongoDB URI connection scheme has the form:
+      ```sh
+      mongodb://[username:password@]host1[:port1][,...hostN[:portN]]][/[database][?options]]
+      ```
+      Update your database connection details in the .env file.
 
 * Web3 service provider with [Geth](https://geth.ethereum.org/),[openerhereum](https://github.com/openethereum/openethereum) or [Infura](https://infura.io/) SaaS
 * PM2 Process Manager, you can install it a described below : 
  ```sh
   npm install pm2 -g
   ```
- 
-
 ### To run the project
 
 
