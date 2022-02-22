@@ -1,12 +1,13 @@
 #  Blockchain deployment
 
 
-## 1. You can check all our differents smart contracts in contract folder:
+## 1. You can check all our different smart contracts in contract folder:
 
 ![alt text](img/contracts.png)
 
 
 ## 2. To Deploy smart contracts (token,campaign and oracle) in contract folder with [Remix](https://remix.ethereum.org) and [Metamask](https://metamask.io/) or [MEW](https://www.myetherwallet.com/):
+
 ### a. create your file on Remix and paste your code there
 
 ![alt text](img/remix.png)
@@ -27,7 +28,7 @@
 ![alt text](img/createinfura.png)
 
 
-### b. Get node credentials from infura such as PROJECTID, PROJECT SECRET, and the endpoints that we can use to connect to infura node(https, wss)
+### b. Get node credentials from infura such as PROJECTID, PROJECT SECRET, and the endpoints that we can use to connect to infura node (https, wss)
 
 
 ![alt text](img/keysinfura.png)
@@ -41,7 +42,7 @@ WEB3_URL=process.env.WEB3_URL
 
 
 
-You can also install Geth Node you can follow this [Guide](https://geth.ethereum.org/docs/getting-started) or [Parity](https://openethereum.github.io/Setup)
+You can also install Geth Node and follow this [Guide](https://geth.ethereum.org/docs/getting-started) or [Parity](https://openethereum.github.io/Setup)
 
 ## 4. on campaign contract call modToken(<token_address>,true)
 ## 5. on campaign contract call setOracle(<oracle_address>)
