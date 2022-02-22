@@ -53,7 +53,10 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
   npm install pm2 -g
   ```
 ### To run the project
-
+To launch the test part please run the following command.
+ ```sh
+   npm run test
+   ```
 
 1. Clone the repo
    ```sh
@@ -66,7 +69,7 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
    pm2 start app.js
    ```
 
-
+### Testing
 
 ## Usage
 
