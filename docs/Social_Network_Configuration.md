@@ -184,3 +184,11 @@ TELEGRAM_BOT_TOKEN=process.env.TELEGRAM_BOT_TOKEN
   ### 2.  Get your crededentials
 
 ![alt text](img/marketcap1.png)
+
+PS: 
+All this credentials refers to CMR_URL and CMCAPIKEY in .env file
+
+```sh
+CMR_URL=process.env.CMR_URL
+CMCAPIKEY=process.env.CMCAPIKEY
+```
