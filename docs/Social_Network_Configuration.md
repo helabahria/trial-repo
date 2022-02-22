@@ -56,20 +56,16 @@ FB_GRAPH_VERSION=process.env.FB_GRAPH_VERSION
 
 ![alt text](img/33.png)
 
+<!--Youtube-->
 
-
- ## Create Youtube configuration
+ ## Youtube configuration
 
   ![alt text](img/111.png)
-
 
 
   ### Get Youtube configuration
 
   ![alt text](img/222.png)
-
-
-
 
 
 PS: 
@@ -81,22 +77,19 @@ GOOGLE_CLIENT_SECRET=process.env.GOOGLE_CLIENT_SECRET
 GDA_TAP_API_KEY= process.env.GDA_TAP_API_KEY
 ```
 
-
-- #### LinkedIN configuration
+<!--Linkedin-->
+## LinkedIN configuration
 
   To create a linkedin app you should visit [official developer.linkedin.com website](https://developer.linkedin.com/) and respect the following steps:
 
-  # Create a new app
+  ### 1. Create a new app
 
 ![alt text](img/333.png)
 
 
-  # Get linkedin crededentials
+  ### 2. Get linkedin crededentials
 
 ![alt text](img/444.png)
-
-
-
 
 PS: 
 All this credentials refers to LINKEDIN_KEY and LINKEDIN_SECRET in .env file
@@ -106,31 +99,30 @@ LINKEDIN_KEY=process.env.LINKEDIN_KEY
 LINKEDIN_SECRET=process.env.LINKEDIN_SECRET
 ```
 
+<!--Twitter-->
 
-
-
-- #### Twitter  configuration
+ ## Twitter  configuration
 
   To create a linkedin app you should visit [official  developers.twitter.com website](https://developer.twitter.com/) and respect the following steps:
 
-  # Create a new app
+  ### 1. Create a new app
 
 ![alt text](img/1t.png)
 
 
-  # Set params for your app
+  ### 2. Set params for your app
 
 ![alt text](img/2t.png)
 
 
 
-  # Get your twitter credentialds
+  ### 3. Get your twitter credentialds
 
 ![alt text](img/3t.png)
 
 
 
-  # Get your twitter credentialds
+  # Regenrate your twitter credentialds
 
   you can regenerate again your credentials with more options
 
@@ -153,17 +145,16 @@ TWITTER_CONSUMER_SECRET=process.env.TWITTER_CONSUMER_SECRET
 TWITTER_ACCESS_TOKEN_KEY=process.env.TWITTER_ACCESS_TOKEN_KEY
 TWITTER_ACCESS_TOKEN_SECRET=process.env.TWITTER_ACCESS_TOKEN_SECRET
 ```
-
-- #### Telegram configuration
-
+<!--Telegram-->
+ ## Telegram configuration
 
   To create a Telegram bot you should set it via mobile Telegram application:
 
-  # BotFather
+  ### 1.  BotFather
 
 <img src="img/bot1.png" width="324" height="500">
 
-  # Get your confirmation
+  ### 2. Get your confirmation
   
 <img src="img/bot2.png"  width="324" height="500">
 
@@ -178,22 +169,18 @@ TELEGRAM_BOT_TOKEN=process.env.TELEGRAM_BOT_TOKEN
 
 ```
 
+<!--CoinMarketcap-->
 
-
-- #### CoinMarketCap
+## CoinMarketCap configuration
 
 
  We get data refer tou Satt token from [official  coinmarketcap.com/api website](https://coinmarketcap.com/api/) and respect the following steps:
 
-
-
-
-  # Create your account
+  ### 1.  Create your account
 
 ![alt text](img/marketcap0.png)
 
 
-
-  # Get your crededentials
+  ### 2.  Get your crededentials
 
 ![alt text](img/marketcap1.png)
