@@ -1,30 +1,30 @@
-#### Social networks Configuration
+# Social networks Configuration
+<!--Facebook-->
 
-
-- ### Facebook configuration
+ ## Facebook configuration
 
 
   To create a Facebook app you should visit [official developer.facebook.com website](https://developers.facebook.com/apps/) and respect the following steps:
 
-  # Create an app
+  ### Create an app
 
 ![alt text](img/1.png)
 
 
-  # Confirm app creation
+  ### Confirm app creation
 
 
 ![alt text](img/2.png)
 
 
 
-  # Get Facebook credentials
+  ### Get Facebook credentials
 
 ![alt text](img/3.png)
 
 
 
-  # Get Facebook version
+  ### Get Facebook version
 
 
 ![alt text](img/4.png)
