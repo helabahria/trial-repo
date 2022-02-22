@@ -53,11 +53,6 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
   npm install pm2 -g
   ```
 ### To run the project
-To launch the test part please run the following command.
- ```sh
-   npm run test
-   ```
-
 1. Clone the repo
    ```sh
    git clone https://github.com/Atayen/node-satt.git
@@ -70,7 +65,10 @@ To launch the test part please run the following command.
    ```
 
 ### Testing
-
+To launch the test part please run the following command line
+ ```sh
+   npm run test
+   ```
 ## Usage
 
 After you run the project, you can navigate to [https://localhost:3015/docs](http://localhost:3015/docs) to see the full list of available endpoints.
