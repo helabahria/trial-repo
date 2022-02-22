@@ -7,12 +7,9 @@
   To create a Facebook app you should visit [official developer.facebook.com website](https://developers.facebook.com/apps/) and respect the following steps:
 
   ### 1. Create an app
-
-
-<img src="img/1.png" width="900" height="600">
+![alt text](img/1.png)
 
   ### 2. Confirm app creation
-
 
 ![alt text](img/2.png)
 
