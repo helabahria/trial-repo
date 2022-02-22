@@ -1,18 +1,18 @@
-### Blockchain deployment
+#### Blockchain deployment
 
 
-1. You can check all our differents smart contracts in contract folder:
+### 1. You can check all our differents smart contracts in contract folder:
 
 ![alt text](img/contracts.png)
 
 
-2. To Deploy smart contracts (token,campaign and oracle) in contract folder with [Remix](https://remix.ethereum.org) and [Metamask](https://metamask.io/) or [MEW](https://www.myetherwallet.com/):
+### 2. To Deploy smart contracts (token,campaign and oracle) in contract folder with [Remix](https://remix.ethereum.org) and [Metamask](https://metamask.io/) or [MEW](https://www.myetherwallet.com/):
 
-**create your file on Remix and paste your code there
+### 1. create your file on Remix and paste your code there
 
 ![alt text](img/remix.png)
 
-**Compile your file.sol and check
+# Compile your file.sol and check
 
 <img src="img/compile.png" width="350" height="600">
 
