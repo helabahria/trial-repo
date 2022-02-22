@@ -176,7 +176,7 @@ TELEGRAM_BOT_TOKEN=process.env.TELEGRAM_BOT_TOKEN
 ## CoinMarketCap configuration
 
 
- We get data refer tou Satt token from [official  coinmarketcap.com/api website](https://coinmarketcap.com/api/) and respect the following steps:
+ We get data refer to SaTT token from [official  coinmarketcap.com/api website](https://coinmarketcap.com/api/) and respect the following steps:
 
   ### 1.  Create your account
 
