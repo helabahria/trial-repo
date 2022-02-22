@@ -90,8 +90,7 @@ The folder structure of this app is explained below:
 |  app.js                  | Entry point to express app                                                                    |
 | package.json             | Contains npm dependencies as well as the scripts                                              |
                                                                                                                           
-
-
+Please read [the documentaion](/docs) for more information.
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -118,6 +117,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Support
 
-For more information don't hesitate to contact us by email to dev@atayen.us
+Please do not hesitate to [contact us](dev@atayen.us) if you have any further questions or observations  
