@@ -76,6 +76,13 @@ body:
       render: markdown
     validations:
       required: true
+    - type: textarea
+    attributes:
+      label: Add your Wallet Adress
+      description: |
+        
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Anything else?
