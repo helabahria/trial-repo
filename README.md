@@ -28,13 +28,13 @@ This projetct is build in `JavaScript` for `NodeJS` and these main `npm` modules
 
 ## Getting Started
 
-To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Package manager
+To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Package manager.
 
 ### Prerequisites
 
 
 * MongoDB database connection
-  1. Install the driver as a dependency
+  1. Install the driver as a dependency:
      ```sh
       npm install mongodb
      ```
@@ -48,7 +48,7 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
       Update your database connection details in the .env file.
 
 * Web3 service provider with [Geth](https://geth.ethereum.org/),[openerhereum](https://github.com/openethereum/openethereum) or [Infura](https://infura.io/) SaaS
-* PM2 Process Manager, you can install it a described below : 
+* PM2 Process Manager, you can install it a described below: 
  ```sh
   npm install pm2 -g
   ```
@@ -59,13 +59,13 @@ To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Packa
    ```
 2. Edit conf/config.js file
 
-3. Register and start PM2 service 
+3. Register and start PM2 service:
    ```sh
    pm2 start app.js
    ```
 
 ### Testing
-To launch the test part please run the following command line
+To launch the test part please run the following command line:
  ```sh
    npm run test
    ```
