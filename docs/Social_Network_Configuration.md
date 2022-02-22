@@ -7,6 +7,7 @@
   To create a Facebook app you should visit [official developer.facebook.com website](https://developers.facebook.com/apps/) and respect the following steps:
 
   ### 1. Create an app
+  
 ![alt text](img/1.png)
 
   ### 2. Confirm app creation
@@ -35,35 +36,35 @@ APPID=process.env.APPID
 APP_SECRET=process.env.APP_SECRET
 FB_GRAPH_VERSION=process.env.FB_GRAPH_VERSION
 ```
+<!--Google-->
+## Google configuration
 
-- #### Google configuration
-
-  To create a google app you should visit [official console.developers.google.com website](https://console.developers.google.com/) and respect the following steps:
-
-  # Create Credentialds
+ To create a google app you should visit [official console.developers.google.com website](https://console.developers.google.com/) and respect the following steps:
+ 
+ ### 1. Create Credentialds
 
 ![alt text](img/11.png)
 
 
-  # Fill out the form
+ ### 2. Fill out the form
 
 ![alt text](img/22.png)
 
 
 
-  # Get Client crededentials
+ ### 3. Get Client crededentials
 
 ![alt text](img/33.png)
 
 
 
-  # Create Youtube configuration
+ ## Create Youtube configuration
 
   ![alt text](img/111.png)
 
 
 
-  # Get Youtube configuration
+  ### Get Youtube configuration
 
   ![alt text](img/222.png)
 
