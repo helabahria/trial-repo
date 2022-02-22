@@ -117,6 +117,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 
 <!-- CONTACT -->
-## Support
 
+## Support
 Please do not hesitate to contact us  at dev@atayen.us if you have any further questions or observations. :pray: :pencil2:
