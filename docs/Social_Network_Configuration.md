@@ -91,7 +91,7 @@ GDA_TAP_API_KEY= process.env.GDA_TAP_API_KEY
 
   ### 2. Get linkedin crededentials
 
-![alt text](img/444.png)
+![alt text](img/444.jpg)
 
 PS: 
 All this credentials refers to LINKEDIN_KEY and LINKEDIN_SECRET in .env file
