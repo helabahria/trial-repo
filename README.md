@@ -28,7 +28,7 @@ This projetct is build in JavaScript for NodeJS and these main npm modules :
 
 ## Getting Started
 
-To run SaTT API webservice Provider you will need NodeJS 12.0+ and npm Package manager
+To run SaTT API webservice Provider you will need `NodeJS 12.0+` and `npm` Package manager
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ To run SaTT API webservice Provider you will need NodeJS 12.0+ and npm Package m
   ```
  
 
-### Installation
+### To run the project
 
 
 1. Clone the repo
@@ -70,11 +70,12 @@ The folder structure of this app is explained below:
 | **node_modules**         | Contains all  npm dependencies                                                                |
 | **helpers**              | Contains all requirements and the cron job actions                                            |
 | **manager**              | Contains all the definitions of oracles                                                       |
-| **conf**                 | Contains all configuration for the blockChain part.                                           |
-| **controllers**          | Controllers define functions to serve various express routes.                                 |
-| **routes**               | Contain all express routes, separated by module/area of application .                         |
+| **conf**                 | Contains all configuration for the blockChain part                                            |
+| **controllers**          | Controllers define functions to serve various express routes                                  |
+| **routes**               | Contain all express routes, separated by module/area of application                           |
 | **middlewares**          | Express middlewares which process the incoming requests before handling them down to the routes
 | **routes**               | Contain all express routes, separated by module/area of application                           |
+| **test**                 | Contain all unit test cases                           |
 |  app.js                  | Entry point to express app                                                                    |
 | package.json             | Contains npm dependencies as well as the scripts                                              |
                                                                                                                           
