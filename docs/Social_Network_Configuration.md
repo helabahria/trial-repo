@@ -1,4 +1,4 @@
-### Social networks
+### Social networks Configuration
 
 
 - #### Facebook configuration
