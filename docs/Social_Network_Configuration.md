@@ -1,7 +1,7 @@
-### Social networks Configuration
+####Social networks Configuration
 
 
-- #### Facebook configuration
+- ###Facebook configuration
 
 
   To create a Facebook app you should visit [official developer.facebook.com website](https://developers.facebook.com/apps/) and respect the following steps:
