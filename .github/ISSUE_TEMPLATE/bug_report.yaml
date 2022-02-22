@@ -78,10 +78,8 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Anything else?
+      label: Add your wallet adress
       description: |
-        Links? References? Anything that will give us more context about the issue you are encountering!
-
-        Tip: You can attach images by clicking this area to highlight it and then dragging files in.
+       ......
     validations:
-      required: false
+      required: true
