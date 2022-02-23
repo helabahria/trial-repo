@@ -7,7 +7,8 @@
  - For ethereum network please visit this [link](https://etherscan.io/address/0xdf49c9f599a0a9049d97cff34d0c30e468987389#code) and you can find in **Contract** tab the code in Solidity.
  
   - For Binance network please visit this [link](https://bscscan.com/address/0x448bee2d93be708b54ee6353a7cc35c4933f1156#code) and you can find in **Contract** tab the code in Solidity.
-  ![alt text](img/BSC-CONTRACT.png)
+  
+ ![alt text](img/BSC-CONTRACT.png)
 
 ## 2. To Deploy smart contracts (token,campaign and oracle) in contract folder with [Remix](https://remix.ethereum.org) and [Metamask](https://metamask.io/) or [MEW](https://www.myetherwallet.com/)
 
