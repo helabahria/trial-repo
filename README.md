@@ -101,7 +101,7 @@ See the [open issues](https://github.com/Atayen/node-satt/issues) for a list of 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribute to Node-SaTT to earn Rewards
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. :v::tada: 
 
