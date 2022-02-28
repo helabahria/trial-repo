@@ -34,9 +34,9 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Add your wallet adress
+      label: Add your wallet address
       description: |
-       ......
+       Please add your wallet address to earn rewards here.
     validations:
       required: true
   - type: textarea
