@@ -54,7 +54,7 @@ If you believe that you have found a bug in node-satt, please fill out the templ
   `#56`.
  
  ## Rewrads
-Each profitable contribution will be rewarded :moneybag: ! It would be ideal if you create a Wallet and fill in the issue template with your Wallet adress or send it to us at [dev@atayen.us](dev@atayen.us).
+:moneybag: Each profitable contribution will be rewarded :moneybag:. It would be ideal if you create a Wallet and fill in the issue template with your Wallet adress or send it to us at [dev@atayen.us](dev@atayen.us).
 
 Rewards will be decently conveyed concurring to the issue label prioritizing security issue. For each issue label we'll relegate focuses concurring the issue complexity (critical/high/medium/low) and the number of code lines included by each contributor.
 
