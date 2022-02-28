@@ -80,7 +80,7 @@ body:
     attributes:
       label: Add your wallet address
       description: |
-       Please add your wallet address to earn rewards
+       Please add your wallet address to earn rewards here.
     validations:
       required: true
   - type: textarea
