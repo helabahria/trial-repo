@@ -56,7 +56,6 @@ body:
   - type: textarea
     attributes:
       label: Environment
-      description: |
       value: |
         - Device:
         - OS:
